@@ -1,0 +1,920 @@
+Age,SystolicBP,DiastolicBP,BS,BodyTemp,HeartRate,RiskLevel
+21-25yrs,130,80,15,37,86,high risk
+31-35yrs,140,90,13,37,70,high risk
+26-30yrs,90,70,8,38,80,high risk
+26-30yrs,140,85,7,37,70,high risk
+31-35yrs,120,60,6,37,76,low risk
+21-25yrs,140,80,7,37,70,high risk
+21-25yrs,130,70,7,37,78,mid risk
+31-35yrs,85,60,11,39,86,high risk
+31-35yrs,120,90,7,37,70,mid risk
+40+ yrs,130,80,18,37,70,high risk
+21-25yrs,90,60,7,37,76,low risk
+16-20 yrs,120,80,7,37,70,mid risk
+21-25yrs,110,89,7,37,77,low risk
+16-20 yrs,120,75,7,38,70,mid risk
+40+ yrs,120,80,11,37,88,mid risk
+10-15yrs,120,80,7,37,70,low risk
+40+ yrs,140,90,15,37,90,high risk
+21-25yrs,140,100,7,37,80,high risk
+26-30yrs,120,80,7,38,76,mid risk
+10-15yrs,70,50,7,37,70,low risk
+36-40yrs,140,100,18,37,90,high risk
+40+ yrs,140,80,7,37,70,mid risk
+21-25yrs,90,65,8,37,76,low risk
+16-20 yrs,90,60,8,37,70,low risk
+21-25yrs,120,80,8,37,76,low risk
+16-20 yrs,100,70,7,37,80,low risk
+16-20 yrs,120,75,7,37,66,low risk
+21-25yrs,100,65,7,37,70,low risk
+40+ yrs,120,90,7,37,77,low risk
+26-30yrs,90,60,7,37,82,low risk
+16-20 yrs,100,90,7,37,88,low risk
+21-25yrs,100,85,7,37,66,low risk
+21-25yrs,120,90,7,37,82,low risk
+21-25yrs,120,80,7,37,77,low risk
+21-25yrs,75,50,6,37,70,low risk
+10-15yrs,95,60,6,39,60,low risk
+40+ yrs,120,95,6,37,66,low risk
+31-35yrs,100,70,6,37,66,low risk
+21-25yrs,120,85,6,37,88,low risk
+21-25yrs,120,90,6,37,60,low risk
+21-25yrs,90,70,6,37,80,low risk
+26-30yrs,120,80,6,37,70,low risk
+21-25yrs,120,90,6,37,70,low risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+21-25yrs,90,60,8,37,76,low risk
+10-15yrs,76,49,8,37,77,low risk
+10-15yrs,120,80,7,37,70,low risk
+21-25yrs,120,80,7,37,66,low risk
+21-25yrs,100,65,7,37,80,low risk
+31-35yrs,100,70,7,37,60,low risk
+16-20 yrs,120,85,7,37,60,low risk
+21-25yrs,120,90,7,37,70,low risk
+31-35yrs,120,90,6,37,70,low risk
+40+ yrs,120,80,6,37,70,low risk
+21-25yrs,90,60,6,37,76,low risk
+10-15yrs,76,49,6,37,77,low risk
+10-15yrs,120,80,7,37,70,low risk
+10-15yrs,80,60,7,37,80,low risk
+10-15yrs,95,60,7,37,77,low risk
+26-30yrs,90,70,7,37,80,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+26-30yrs,130,70,7,37,78,mid risk
+16-20 yrs,85,60,9,39,86,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+16-20 yrs,110,60,7,38,70,mid risk
+31-35yrs,120,65,6,38,76,mid risk
+26-30yrs,85,60,6,38,86,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+40+ yrs,120,90,16,37,80,mid risk
+21-25yrs,130,70,7,37,70,mid risk
+21-25yrs,85,60,7,37,76,mid risk
+31-35yrs,120,80,7,37,78,mid risk
+21-25yrs,90,60,7,37,86,mid risk
+16-20 yrs,90,65,7,37,76,mid risk
+31-35yrs,115,65,7,37,70,mid risk
+10-15yrs,95,60,7,37,65,mid risk
+26-30yrs,120,90,7,37,70,mid risk
+21-25yrs,90,65,7,37,76,mid risk
+16-20 yrs,90,60,7,37,70,mid risk
+21-25yrs,120,80,7,37,76,mid risk
+16-20 yrs,100,70,7,37,80,mid risk
+16-20 yrs,120,75,7,37,66,mid risk
+21-25yrs,100,85,7,37,66,mid risk
+21-25yrs,120,90,8,37,82,mid risk
+10-15yrs,90,65,8,38,80,mid risk
+21-25yrs,120,90,8,37,60,mid risk
+26-30yrs,115,60,8,38,86,mid risk
+40+ yrs,120,80,8,37,70,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+16-20 yrs,120,85,8,37,60,mid risk
+21-25yrs,120,80,7,37,66,mid risk
+40+ yrs,140,90,15,37,90,high risk
+21-25yrs,140,100,7,37,80,high risk
+21-25yrs,140,90,7,37,70,high risk
+31-35yrs,85,60,11,39,86,high risk
+40+ yrs,140,90,15,37,90,high risk
+21-25yrs,140,100,7,37,80,high risk
+40+ yrs,140,100,18,37,90,high risk
+31-35yrs,140,100,8,37,78,high risk
+40+ yrs,140,95,17,37,60,high risk
+36-40yrs,135,60,8,38,86,high risk
+36-40yrs,90,70,9,37,80,high risk
+26-30yrs,140,100,15,37,70,high risk
+21-25yrs,140,100,8,37,80,high risk
+26-30yrs,120,80,8,38,76,high risk
+31-35yrs,140,100,8,37,78,high risk
+26-30yrs,140,100,15,37,70,high risk
+40+ yrs,120,80,11,37,88,high risk
+40+ yrs,140,90,15,37,90,high risk
+21-25yrs,140,100,8,37,80,high risk
+36-40yrs,160,100,19,37,77,high risk
+31-35yrs,140,90,18,37,88,high risk
+31-35yrs,140,100,8,37,66,high risk
+26-30yrs,120,70,9,37,80,high risk
+40+ yrs,120,80,11,37,88,high risk
+36-40yrs,160,100,19,37,77,high risk
+31-35yrs,140,90,18,37,88,high risk
+31-35yrs,140,100,8,37,66,high risk
+36-40yrs,120,95,11,37,80,high risk
+21-25yrs,90,60,8,39,60,high risk
+36-40yrs,120,85,15,37,60,high risk
+40+ yrs,130,100,16,37,75,high risk
+16-20 yrs,120,80,7,39,76,mid risk
+31-35yrs,140,100,7,37,78,high risk
+16-20 yrs,90,60,7,38,76,mid risk
+16-20 yrs,90,63,7,38,70,mid risk
+21-25yrs,120,90,7,38,80,mid risk
+16-20 yrs,120,80,7,39,76,mid risk
+10-15yrs,90,65,7,38,70,high risk
+10-15yrs,80,60,7,37,80,low risk
+10-15yrs,100,65,7,37,76,low risk
+10-15yrs,95,60,7,37,77,low risk
+36-40yrs,120,90,11,37,88,high risk
+16-20 yrs,100,70,7,37,76,low risk
+21-25yrs,100,85,7,37,70,low risk
+16-20 yrs,110,75,12,38,76,high risk
+21-25yrs,120,90,8,37,80,low risk
+21-25yrs,85,65,8,37,70,low risk
+10-15yrs,95,60,8,37,65,low risk
+26-30yrs,120,90,8,37,70,low risk
+36-40yrs,120,90,12,37,80,high risk
+21-25yrs,100,90,8,37,76,low risk
+31-35yrs,120,80,8,37,80,low risk
+21-25yrs,90,65,8,37,76,low risk
+16-20 yrs,90,60,8,37,70,low risk
+21-25yrs,120,80,8,37,76,low risk
+16-20 yrs,100,70,7,37,80,low risk
+16-20 yrs,120,75,7,37,66,low risk
+36-40yrs,160,100,19,37,77,high risk
+31-35yrs,140,90,18,37,88,high risk
+21-25yrs,100,65,7,37,70,low risk
+40+ yrs,120,90,7,37,77,low risk
+26-30yrs,90,60,7,37,82,low risk
+10-15yrs,90,60,8,39,66,high risk
+16-20 yrs,100,90,7,37,88,low risk
+21-25yrs,100,85,7,37,66,low risk
+21-25yrs,120,90,7,37,82,low risk
+21-25yrs,120,80,7,37,77,low risk
+31-35yrs,140,100,8,37,66,high risk
+36-40yrs,120,95,11,37,80,high risk
+21-25yrs,75,50,6,37,70,low risk
+10-15yrs,95,60,6,39,60,low risk
+40+ yrs,130,100,16,37,75,high risk
+40+ yrs,120,95,6,37,66,low risk
+31-35yrs,100,70,6,37,66,low risk
+21-25yrs,120,85,6,37,88,low risk
+10-15yrs,90,65,8,38,80,mid risk
+21-25yrs,120,90,6,37,60,low risk
+16-20 yrs,90,65,6,39,67,high risk
+26-30yrs,83,60,8,38,86,high risk
+40+ yrs,120,80,15,37,70,high risk
+21-25yrs,90,70,6,37,80,low risk
+26-30yrs,120,80,6,37,70,low risk
+31-35yrs,120,60,6,37,76,mid risk
+21-25yrs,120,90,6,37,70,low risk
+26-30yrs,130,70,6,37,78,mid risk
+16-20 yrs,85,60,9,39,86,high risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+21-25yrs,90,60,8,37,76,low risk
+16-20 yrs,120,80,7,37,70,mid risk
+10-15yrs,76,49,8,37,77,low risk
+31-35yrs,120,75,10,37,70,high risk
+40+ yrs,120,80,11,37,88,high risk
+10-15yrs,120,80,7,37,70,low risk
+21-25yrs,120,80,7,37,66,low risk
+21-25yrs,100,65,7,37,80,low risk
+40+ yrs,140,95,17,37,60,high risk
+31-35yrs,100,70,7,37,60,low risk
+16-20 yrs,120,85,7,37,60,low risk
+26-30yrs,85,60,9,38,86,mid risk
+40+ yrs,140,80,7,37,70,mid risk
+26-30yrs,90,70,7,37,80,mid risk
+26-30yrs,140,100,15,37,70,high risk
+31-35yrs,120,60,6,37,76,mid risk
+21-25yrs,120,90,7,37,70,low risk
+26-30yrs,130,70,7,37,78,mid risk
+16-20 yrs,85,60,9,39,86,mid risk
+31-35yrs,120,90,6,37,70,low risk
+40+ yrs,120,80,6,37,70,low risk
+21-25yrs,90,60,6,37,76,low risk
+16-20 yrs,120,80,7,37,70,mid risk
+10-15yrs,76,49,6,37,77,low risk
+26-30yrs,120,75,7,38,70,high risk
+40+ yrs,120,80,11,37,88,high risk
+10-15yrs,120,80,7,37,70,low risk
+40+ yrs,140,90,15,37,77,high risk
+21-25yrs,140,100,7,37,80,high risk
+16-20 yrs,110,60,7,38,70,mid risk
+36-40yrs,140,100,18,37,77,high risk
+26-30yrs,120,80,9,39,76,high risk
+31-35yrs,140,100,8,37,70,high risk
+16-20 yrs,90,60,11,38,78,high risk
+16-20 yrs,90,63,8,38,70,high risk
+21-25yrs,120,90,12,38,80,high risk
+16-20 yrs,120,80,7,39,76,high risk
+16-20 yrs,90,65,11,38,70,high risk
+10-15yrs,80,60,7,37,80,low risk
+31-35yrs,120,65,6,38,76,mid risk
+10-15yrs,95,60,7,37,77,low risk
+36-40yrs,120,90,11,37,88,high risk
+16-20 yrs,100,70,7,37,76,low risk
+21-25yrs,100,85,7,37,70,low risk
+16-20 yrs,110,75,13,38,76,high risk
+21-25yrs,120,90,15,37,80,high risk
+10-15yrs,85,65,7,37,70,low risk
+10-15yrs,95,60,7,37,65,low risk
+26-30yrs,120,90,7,37,70,low risk
+36-40yrs,120,90,7,37,80,low risk
+21-25yrs,100,90,7,37,76,low risk
+31-35yrs,120,80,7,37,80,low risk
+21-25yrs,90,65,7,37,76,low risk
+16-20 yrs,90,60,7,37,70,low risk
+21-25yrs,120,80,7,37,76,low risk
+16-20 yrs,100,70,7,37,80,low risk
+16-20 yrs,120,75,7,37,66,low risk
+36-40yrs,160,100,19,37,77,high risk
+31-35yrs,140,90,18,37,88,high risk
+21-25yrs,100,65,7,37,70,low risk
+40+ yrs,120,90,7,37,77,low risk
+26-30yrs,90,60,7,37,82,low risk
+10-15yrs,90,60,8,39,66,high risk
+16-20 yrs,100,90,7,37,88,low risk
+21-25yrs,100,85,7,37,66,low risk
+21-25yrs,120,90,7,37,82,low risk
+21-25yrs,120,80,7,37,77,low risk
+31-35yrs,140,100,9,37,66,high risk
+36-40yrs,120,95,11,37,80,high risk
+21-25yrs,75,50,8,37,60,low risk
+10-15yrs,90,60,11,39,60,high risk
+40+ yrs,130,100,16,37,76,high risk
+40+ yrs,120,95,8,37,66,low risk
+31-35yrs,100,70,8,37,66,low risk
+21-25yrs,120,85,8,37,88,low risk
+10-15yrs,90,65,9,38,80,high risk
+21-25yrs,120,90,8,37,60,low risk
+16-20 yrs,90,65,8,39,67,high risk
+26-30yrs,85,60,6,38,86,mid risk
+40+ yrs,120,80,8,37,70,low risk
+16-20 yrs,90,70,8,37,80,low risk
+26-30yrs,120,80,8,37,70,low risk
+31-35yrs,120,60,6,37,76,low risk
+21-25yrs,120,80,8,37,70,low risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,85,60,6,39,86,high risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+21-25yrs,90,60,8,37,76,low risk
+16-20 yrs,120,80,7,37,70,mid risk
+10-15yrs,75,49,8,37,77,low risk
+36-40yrs,120,75,8,37,70,high risk
+40+ yrs,120,80,11,37,88,high risk
+10-15yrs,120,80,8,37,70,low risk
+21-25yrs,120,80,8,37,66,low risk
+21-25yrs,100,65,7,37,80,low risk
+10-15yrs,120,95,7,37,60,low risk
+31-35yrs,100,70,7,37,60,low risk
+16-20 yrs,120,85,7,37,60,low risk
+31-35yrs,90,65,7,37,75,low risk
+21-25yrs,90,70,7,37,66,low risk
+21-25yrs,120,80,7,37,88,low risk
+21-25yrs,120,60,15,37,80,high risk
+31-35yrs,85,60,19,37,86,high risk
+40+ yrs,120,90,18,37,70,high risk
+10-15yrs,120,80,7,37,80,low risk
+21-25yrs,120,90,7,37,70,low risk
+21-25yrs,90,65,7,37,78,low risk
+31-35yrs,90,70,7,37,70,low risk
+40+ yrs,120,80,15,37,76,high risk
+31-35yrs,120,60,7,37,70,low risk
+40+ yrs,120,90,16,37,80,mid risk
+21-25yrs,130,70,7,37,70,mid risk
+21-25yrs,85,60,7,37,76,mid risk
+31-35yrs,120,80,7,37,78,mid risk
+21-25yrs,90,60,7,37,86,mid risk
+40+ yrs,120,80,7,39,70,low risk
+40+ yrs,90,60,18,38,70,high risk
+21-25yrs,120,80,7,39,76,low risk
+16-20 yrs,90,65,7,37,76,mid risk
+10-15yrs,95,60,7,37,77,low risk
+36-40yrs,120,90,11,37,88,high risk
+16-20 yrs,100,70,7,37,76,low risk
+21-25yrs,100,85,7,37,70,low risk
+16-20 yrs,110,75,7,38,76,high risk
+21-25yrs,120,90,7,37,80,low risk
+31-35yrs,115,65,7,37,70,mid risk
+10-15yrs,95,60,7,37,65,mid risk
+26-30yrs,120,90,7,37,70,mid risk
+36-40yrs,120,90,7,37,80,high risk
+21-25yrs,100,90,7,37,76,high risk
+31-35yrs,120,80,7,37,80,high risk
+21-25yrs,90,65,7,37,76,mid risk
+16-20 yrs,90,60,7,37,70,mid risk
+21-25yrs,120,80,7,37,76,mid risk
+16-20 yrs,100,70,7,37,80,mid risk
+16-20 yrs,120,75,7,37,66,mid risk
+36-40yrs,160,100,19,37,77,high risk
+31-35yrs,140,90,18,37,88,high risk
+21-25yrs,100,85,7,37,66,mid risk
+21-25yrs,120,90,8,37,82,mid risk
+21-25yrs,120,80,8,37,77,low risk
+31-35yrs,140,100,8,37,66,high risk
+36-40yrs,120,95,11,37,80,high risk
+21-25yrs,75,50,8,37,60,low risk
+10-15yrs,90,60,8,39,60,high risk
+40+ yrs,130,100,16,37,75,high risk
+40+ yrs,120,95,8,37,66,low risk
+31-35yrs,100,70,8,37,66,low risk
+21-25yrs,120,85,8,37,88,low risk
+10-15yrs,90,65,8,38,80,mid risk
+21-25yrs,120,90,8,37,60,mid risk
+16-20 yrs,90,65,8,39,67,high risk
+26-30yrs,115,60,8,38,86,mid risk
+40+ yrs,120,80,8,37,70,mid risk
+16-20 yrs,90,70,8,37,80,low risk
+26-30yrs,120,80,8,37,70,low risk
+31-35yrs,120,60,6,37,76,low risk
+21-25yrs,120,70,8,37,70,low risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,85,69,8,39,86,high risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+21-25yrs,90,60,8,37,76,low risk
+16-20 yrs,120,80,7,37,70,mid risk
+10-15yrs,76,49,8,37,77,low risk
+16-20 yrs,120,75,8,37,70,low risk
+40+ yrs,120,80,11,37,88,high risk
+10-15yrs,120,80,8,37,70,low risk
+21-25yrs,120,80,8,37,66,low risk
+21-25yrs,100,65,8,37,80,low risk
+10-15yrs,120,95,8,37,60,low risk
+31-35yrs,100,70,8,37,60,low risk
+16-20 yrs,120,85,8,37,60,mid risk
+21-25yrs,120,80,7,37,66,mid risk
+21-25yrs,100,65,7,37,88,low risk
+10-15yrs,120,95,7,37,60,mid risk
+31-35yrs,100,70,7,37,60,mid risk
+16-20 yrs,120,90,7,37,60,mid risk
+40+ yrs,130,80,16,39,76,mid risk
+26-30yrs,120,90,7,39,68,mid risk
+10-15yrs,120,90,7,37,80,mid risk
+16-20 yrs,140,100,7,39,80,high risk
+21-25yrs,100,65,7,37,88,low risk
+36-40yrs,140,100,7,39,76,high risk
+21-25yrs,90,60,7,37,77,low risk
+21-25yrs,120,100,7,37,60,mid risk
+31-35yrs,100,60,15,37,80,high risk
+36-40yrs,140,100,13,38,66,high risk
+26-30yrs,120,70,7,37,77,low risk
+36-40yrs,140,100,7,39,76,high risk
+21-25yrs,90,60,7,37,77,mid risk
+21-25yrs,120,100,7,37,60,low risk
+31-35yrs,100,60,15,37,80,high risk
+36-40yrs,140,100,13,38,66,high risk
+26-30yrs,120,70,7,37,77,low risk
+26-30yrs,120,70,7,37,77,low risk
+31-35yrs,140,80,13,37,70,high risk
+26-30yrs,90,70,10,37,80,high risk
+26-30yrs,120,80,7,37,70,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+21-25yrs,140,90,7,37,70,high risk
+21-25yrs,130,70,7,37,78,mid risk
+31-35yrs,85,60,11,39,86,high risk
+31-35yrs,120,90,7,37,70,low risk
+40+ yrs,130,80,18,37,70,mid risk
+21-25yrs,99,60,7,37,76,low risk
+16-20 yrs,120,80,7,37,70,mid risk
+10-15yrs,76,49,7,37,77,low risk
+26-30yrs,120,75,7,37,70,mid risk
+40+ yrs,120,80,11,37,88,high risk
+10-15yrs,120,80,7,37,70,low risk
+40+ yrs,140,90,15,37,90,high risk
+21-25yrs,140,100,7,37,80,high risk
+26-30yrs,100,70,7,37,80,low risk
+31-35yrs,120,80,7,37,70,mid risk
+31-35yrs,120,60,6,37,76,low risk
+21-25yrs,140,90,7,37,70,high risk
+21-25yrs,130,70,7,37,78,mid risk
+31-35yrs,85,60,11,39,86,high risk
+31-35yrs,120,90,7,37,70,low risk
+40+ yrs,130,80,18,37,70,mid risk
+21-25yrs,90,60,7,37,76,low risk
+16-20 yrs,120,80,7,37,70,mid risk
+10-15yrs,76,49,7,37,77,low risk
+16-20 yrs,120,75,7,37,70,low risk
+40+ yrs,120,80,11,37,88,low risk
+10-15yrs,120,80,7,37,70,low risk
+40+ yrs,140,90,15,37,90,high risk
+21-25yrs,140,100,7,37,80,high risk
+26-30yrs,120,80,7,38,76,low risk
+31-35yrs,110,90,7,38,70,mid risk
+40+ yrs,140,100,18,37,90,high risk
+16-20 yrs,120,80,7,39,76,low risk
+31-35yrs,140,100,8,37,78,high risk
+16-20 yrs,90,60,8,38,76,low risk
+16-20 yrs,120,80,7,37,70,mid risk
+10-15yrs,76,49,8,37,77,low risk
+16-20 yrs,120,75,8,37,70,low risk
+40+ yrs,120,80,11,37,88,low risk
+10-15yrs,120,80,8,37,70,low risk
+21-25yrs,120,80,8,37,66,mid risk
+21-25yrs,100,65,8,37,80,low risk
+40+ yrs,140,95,17,37,60,high risk
+31-35yrs,100,70,8,37,60,low risk
+16-20 yrs,120,85,8,37,60,low risk
+36-40yrs,135,60,8,38,86,high risk
+40+ yrs,120,80,8,37,70,low risk
+36-40yrs,90,70,9,37,80,high risk
+26-30yrs,140,100,15,37,70,high risk
+31-35yrs,120,60,6,37,76,mid risk
+21-25yrs,120,90,8,37,70,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,85,60,8,39,86,low risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+21-25yrs,90,60,8,37,76,low risk
+16-20 yrs,120,80,7,37,70,low risk
+10-15yrs,76,49,8,37,77,low risk
+16-20 yrs,120,75,8,37,7,low risk
+40+ yrs,120,80,11,37,88,mid risk
+10-15yrs,120,80,8,37,70,low risk
+21-25yrs,140,100,8,37,80,high risk
+26-30yrs,120,80,8,38,76,high risk
+16-20 yrs,70,50,8,37,70,low risk
+16-20 yrs,120,80,8,39,76,mid risk
+31-35yrs,140,100,8,37,78,high risk
+16-20 yrs,90,60,8,38,76,low risk
+16-20 yrs,90,63,8,38,70,low risk
+21-25yrs,120,90,8,38,80,low risk
+16-20 yrs,120,80,8,39,76,low risk
+16-20 yrs,90,65,8,38,70,low risk
+10-15yrs,80,60,8,37,80,low risk
+16-20 yrs,85,60,8,38,86,mid risk
+40+ yrs,120,80,8,37,70,low risk
+16-20 yrs,90,70,8,37,80,low risk
+26-30yrs,140,100,15,37,70,high risk
+31-35yrs,120,60,6,37,76,low risk
+21-25yrs,120,90,8,37,70,low risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,85,60,8,39,86,low risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+40+ yrs,90,60,8,37,76,low risk
+16-20 yrs,120,80,7,37,70,low risk
+10-15yrs,78,49,8,37,77,low risk
+21-25yrs,120,75,8,37,70,mid risk
+40+ yrs,120,80,11,37,88,high risk
+10-15yrs,120,80,8,37,70,mid risk
+40+ yrs,140,90,15,37,90,high risk
+21-25yrs,140,100,8,37,80,high risk
+26-30yrs,120,80,8,38,76,mid risk
+16-20 yrs,70,50,8,38,70,low risk
+16-20 yrs,100,70,8,37,80,low risk
+16-20 yrs,120,75,8,37,66,low risk
+36-40yrs,160,100,19,37,77,high risk
+31-35yrs,140,90,18,37,88,high risk
+21-25yrs,100,65,8,37,70,low risk
+40+ yrs,120,90,8,37,77,low risk
+26-30yrs,90,60,8,37,82,low risk
+10-15yrs,90,60,8,39,66,low risk
+16-20 yrs,100,90,8,37,88,low risk
+21-25yrs,100,85,8,37,66,low risk
+21-25yrs,120,90,8,37,82,low risk
+21-25yrs,120,80,8,37,77,low risk
+31-35yrs,140,100,8,37,66,high risk
+36-40yrs,120,95,11,37,80,mid risk
+21-25yrs,75,50,8,37,60,low risk
+10-15yrs,90,60,8,39,60,low risk
+40+ yrs,130,100,16,37,75,mid risk
+40+ yrs,120,95,8,37,66,low risk
+31-35yrs,100,70,8,37,66,low risk
+21-25yrs,120,85,8,37,88,low risk
+10-15yrs,90,65,8,38,80,low risk
+21-25yrs,120,90,8,37,60,low risk
+16-20 yrs,90,65,8,39,67,low risk
+26-30yrs,115,60,8,38,86,mid risk
+26-30yrs,120,70,9,37,80,high risk
+21-25yrs,120,80,8,37,70,low risk
+31-35yrs,120,60,6,37,76,mid risk
+21-25yrs,120,80,8,37,70,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,85,60,8,39,86,low risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+21-25yrs,90,60,8,37,76,low risk
+16-20 yrs,120,80,7,37,70,low risk
+10-15yrs,78,49,8,37,77,low risk
+16-20 yrs,120,75,8,37,70,low risk
+40+ yrs,120,80,11,37,88,high risk
+10-15yrs,120,80,8,37,70,low risk
+21-25yrs,120,80,8,37,66,low risk
+16-20 yrs,100,70,8,37,80,low risk
+16-20 yrs,120,76,8,37,66,low risk
+36-40yrs,160,100,19,37,77,high risk
+31-35yrs,140,90,18,37,88,high risk
+21-25yrs,100,65,8,37,70,mid risk
+40+ yrs,120,90,8,37,77,mid risk
+26-30yrs,90,60,8,37,82,mid risk
+10-15yrs,90,60,8,39,66,mid risk
+16-20 yrs,100,90,8,37,88,mid risk
+21-25yrs,100,85,8,37,66,mid risk
+21-25yrs,120,90,8,37,82,mid risk
+21-25yrs,120,80,8,37,77,mid risk
+31-35yrs,140,100,8,37,66,high risk
+36-40yrs,120,95,11,37,80,high risk
+21-25yrs,75,50,8,37,60,low risk
+21-25yrs,90,60,8,39,60,high risk
+36-40yrs,120,85,15,37,60,high risk
+40+ yrs,130,100,16,37,75,high risk
+36-40yrs,120,85,15,37,60,high risk
+40+ yrs,130,100,16,37,75,mid risk
+40+ yrs,120,80,8,37,75,low risk
+40+ yrs,120,95,8,37,66,low risk
+31-35yrs,100,70,8,37,66,low risk
+21-25yrs,120,85,8,37,88,low risk
+10-15yrs,90,65,8,38,80,high risk
+21-25yrs,120,90,8,37,60,low risk
+16-20 yrs,90,65,8,39,67,mid risk
+26-30yrs,135,60,8,38,86,high risk
+40+ yrs,120,80,15,37,70,high risk
+31-35yrs,110,70,7,37,80,high risk
+31-35yrs,120,80,8,37,70,low risk
+31-35yrs,120,60,6,37,76,low risk
+21-25yrs,120,90,8,37,70,low risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,85,60,8,38,86,high risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+21-25yrs,90,60,8,37,76,low risk
+16-20 yrs,120,80,7,37,70,mid risk
+10-15yrs,76,49,8,37,77,low risk
+16-20 yrs,120,76,8,37,70,low risk
+40+ yrs,120,80,11,37,88,high risk
+10-15yrs,120,80,8,37,70,low risk
+21-25yrs,120,80,8,37,66,low risk
+21-25yrs,100,65,12,37,80,high risk
+40+ yrs,140,95,17,37,60,high risk
+31-35yrs,100,70,11,37,60,high risk
+16-20 yrs,120,85,9,37,60,mid risk
+26-30yrs,90,65,8,37,77,mid risk
+26-30yrs,85,60,9,38,86,mid risk
+40+ yrs,130,80,15,37,86,high risk
+31-35yrs,140,90,13,37,70,high risk
+26-30yrs,90,70,11,38,80,high risk
+16-20 yrs,120,60,7,37,70,low risk
+40+ yrs,140,100,12,37,90,high risk
+26-30yrs,95,60,10,38,86,high risk
+40+ yrs,120,80,7,37,70,mid risk
+36-40yrs,110,70,8,37,80,mid risk
+21-25yrs,140,100,15,37,70,high risk
+31-35yrs,120,60,6,37,76,low risk
+21-25yrs,120,85,8,37,70,low risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,90,60,9,39,86,mid risk
+31-35yrs,120,90,7,38,70,mid risk
+40+ yrs,120,90,9,37,70,mid risk
+21-25yrs,90,60,7,37,76,low risk
+16-20 yrs,120,80,7,37,70,low risk
+10-15yrs,76,68,7,37,77,low risk
+31-35yrs,120,75,8,37,70,low risk
+40+ yrs,120,80,11,37,88,high risk
+10-15yrs,120,80,7,37,70,low risk
+26-30yrs,140,90,15,37,90,high risk
+21-25yrs,140,100,12,37,80,high risk
+36-40yrs,120,90,7,37,82,mid risk
+26-30yrs,120,80,9,38,76,mid risk
+10-15yrs,70,50,6,37,70,mid risk
+36-40yrs,120,95,7,37,70,high risk
+10-15yrs,90,60,6,37,80,low risk
+21-25yrs,90,50,7,37,60,low risk
+10-15yrs,90,49,6,37,77,low risk
+21-25yrs,90,50,7,37,60,low risk
+10-15yrs,90,49,6,37,77,low risk
+10-15yrs,90,49,7,37,77,low risk
+10-15yrs,90,49,6,37,77,low risk
+10-15yrs,100,50,6,37,70,mid risk
+10-15yrs,100,49,7,37,77,low risk
+10-15yrs,100,49,6,37,77,low risk
+10-15yrs,100,50,6,37,70,mid risk
+10-15yrs,100,60,6,37,80,low risk
+31-35yrs,140,90,13,37,70,high risk
+26-30yrs,90,70,8,38,80,high risk
+26-30yrs,140,85,7,37,70,high risk
+21-25yrs,140,80,7,37,70,high risk
+31-35yrs,85,60,11,39,86,high risk
+40+ yrs,130,80,18,37,70,high risk
+40+ yrs,140,90,15,37,90,high risk
+21-25yrs,140,100,7,37,80,high risk
+36-40yrs,140,100,18,37,90,high risk
+31-35yrs,140,100,7,37,78,high risk
+10-15yrs,90,65,7,38,70,high risk
+36-40yrs,120,90,11,37,88,high risk
+16-20 yrs,110,75,12,38,76,high risk
+36-40yrs,120,90,12,37,80,high risk
+36-40yrs,160,100,19,37,77,high risk
+16-20 yrs,120,76,8,37,70,low risk
+10-15yrs,120,80,8,37,70,low risk
+21-25yrs,120,80,8,37,66,low risk
+16-20 yrs,120,60,7,37,70,low risk
+31-35yrs,120,60,6,37,76,low risk
+21-25yrs,120,85,8,37,70,low risk
+21-25yrs,90,60,7,37,76,low risk
+16-20 yrs,120,80,7,37,70,low risk
+10-15yrs,76,68,7,37,77,low risk
+31-35yrs,120,75,8,37,70,low risk
+10-15yrs,120,80,7,37,70,low risk
+10-15yrs,90,60,6,37,80,low risk
+21-25yrs,90,50,7,37,60,low risk
+10-15yrs,100,49,8,37,77,low risk
+10-15yrs,100,50,6,37,70,mid risk
+21-25yrs,100,50,7,37,60,low risk
+21-25yrs,130,70,7,37,78,mid risk
+31-35yrs,120,90,7,37,70,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+16-20 yrs,120,75,7,38,70,mid risk
+40+ yrs,120,80,11,37,88,mid risk
+26-30yrs,120,80,7,38,76,mid risk
+16-20 yrs,120,80,7,39,76,mid risk
+16-20 yrs,90,60,7,38,76,mid risk
+16-20 yrs,90,63,7,38,70,mid risk
+21-25yrs,120,90,7,38,80,mid risk
+16-20 yrs,120,80,7,39,76,mid risk
+10-15yrs,90,65,8,38,80,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+26-30yrs,130,70,6,37,78,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+26-30yrs,85,60,9,38,86,mid risk
+40+ yrs,140,80,7,37,70,mid risk
+26-30yrs,90,70,7,37,80,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+26-30yrs,130,70,7,37,78,mid risk
+16-20 yrs,85,60,9,39,86,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+16-20 yrs,110,60,7,38,70,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+16-20 yrs,120,75,7,38,70,mid risk
+40+ yrs,120,80,11,37,88,mid risk
+26-30yrs,120,80,7,38,76,mid risk
+16-20 yrs,120,80,7,39,76,mid risk
+16-20 yrs,90,60,7,38,76,mid risk
+16-20 yrs,90,63,7,38,70,mid risk
+21-25yrs,120,90,7,38,80,mid risk
+16-20 yrs,120,80,7,39,76,mid risk
+10-15yrs,90,65,8,38,80,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+26-30yrs,130,70,6,37,78,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+26-30yrs,85,60,9,38,86,mid risk
+40+ yrs,140,80,7,37,70,mid risk
+26-30yrs,90,70,7,37,80,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+26-30yrs,130,70,7,37,78,mid risk
+16-20 yrs,85,60,9,39,86,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+16-20 yrs,110,60,7,38,70,mid risk
+31-35yrs,120,65,6,38,76,mid risk
+26-30yrs,85,60,6,38,86,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+40+ yrs,120,90,16,37,80,mid risk
+21-25yrs,130,70,7,37,70,mid risk
+21-25yrs,85,60,7,37,76,mid risk
+31-35yrs,120,80,7,37,78,mid risk
+21-25yrs,90,60,7,37,86,mid risk
+16-20 yrs,90,65,7,37,76,mid risk
+31-35yrs,115,65,7,37,70,mid risk
+10-15yrs,95,60,7,37,65,mid risk
+26-30yrs,120,90,7,37,70,mid risk
+21-25yrs,90,65,7,37,76,mid risk
+16-20 yrs,90,60,7,37,70,mid risk
+21-25yrs,120,80,7,37,76,mid risk
+16-20 yrs,100,70,7,37,80,mid risk
+16-20 yrs,120,75,7,37,66,mid risk
+21-25yrs,100,85,7,37,66,mid risk
+21-25yrs,120,90,8,37,82,mid risk
+10-15yrs,90,65,8,38,80,mid risk
+21-25yrs,120,90,8,37,60,mid risk
+26-30yrs,115,60,8,38,86,mid risk
+40+ yrs,120,80,8,37,70,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+16-20 yrs,120,85,8,37,60,mid risk
+21-25yrs,120,80,7,37,66,mid risk
+10-15yrs,120,95,7,37,60,mid risk
+31-35yrs,100,70,7,37,60,mid risk
+16-20 yrs,120,90,7,37,60,mid risk
+40+ yrs,130,80,16,39,76,mid risk
+26-30yrs,120,90,7,39,68,mid risk
+10-15yrs,120,90,7,37,80,mid risk
+21-25yrs,120,100,7,37,60,mid risk
+21-25yrs,90,60,7,37,77,mid risk
+26-30yrs,120,80,7,37,70,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+21-25yrs,130,70,7,37,78,mid risk
+40+ yrs,130,80,18,37,70,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+26-30yrs,120,75,7,37,70,mid risk
+31-35yrs,120,80,7,37,70,mid risk
+21-25yrs,130,70,7,37,78,mid risk
+40+ yrs,130,80,18,37,70,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+31-35yrs,110,90,7,38,70,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+21-25yrs,120,80,8,37,66,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+21-25yrs,120,90,8,37,70,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+40+ yrs,120,80,11,37,88,mid risk
+16-20 yrs,120,80,8,39,76,mid risk
+16-20 yrs,85,60,8,38,86,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+21-25yrs,120,75,8,37,70,mid risk
+10-15yrs,120,80,8,37,70,mid risk
+26-30yrs,120,80,8,38,76,mid risk
+36-40yrs,120,95,11,37,80,mid risk
+40+ yrs,130,100,16,37,75,mid risk
+26-30yrs,115,60,8,38,86,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+21-25yrs,120,80,8,37,70,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+21-25yrs,100,65,8,37,70,mid risk
+40+ yrs,120,90,8,37,77,mid risk
+26-30yrs,90,60,8,37,82,mid risk
+10-15yrs,90,60,8,39,66,mid risk
+16-20 yrs,100,90,8,37,88,mid risk
+21-25yrs,100,85,8,37,66,mid risk
+21-25yrs,120,90,8,37,82,mid risk
+21-25yrs,120,80,8,37,77,mid risk
+40+ yrs,130,100,16,37,75,mid risk
+16-20 yrs,90,65,8,39,67,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+16-20 yrs,120,85,9,37,60,mid risk
+26-30yrs,90,65,8,37,77,mid risk
+26-30yrs,85,60,9,38,86,mid risk
+40+ yrs,120,80,7,37,70,mid risk
+36-40yrs,110,70,8,37,80,mid risk
+26-30yrs,130,70,8,37,78,mid risk
+16-20 yrs,90,60,9,39,86,mid risk
+31-35yrs,120,90,7,38,70,mid risk
+40+ yrs,120,90,9,37,70,mid risk
+36-40yrs,120,90,7,37,82,mid risk
+26-30yrs,120,80,9,38,76,mid risk
+10-15yrs,70,50,6,37,70,mid risk
+10-15yrs,100,50,6,37,70,mid risk
+10-15yrs,100,50,6,37,70,mid risk
+10-15yrs,100,50,6,37,70,mid risk
+21-25yrs,130,70,7,37,78,mid risk
+31-35yrs,120,90,7,37,70,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+16-20 yrs,120,75,7,38,70,mid risk
+40+ yrs,120,80,11,37,88,mid risk
+26-30yrs,120,80,7,38,76,mid risk
+16-20 yrs,120,80,7,39,76,mid risk
+16-20 yrs,90,60,7,38,76,mid risk
+16-20 yrs,90,63,7,38,70,mid risk
+21-25yrs,120,90,7,38,80,mid risk
+16-20 yrs,120,80,7,39,76,mid risk
+10-15yrs,90,65,8,38,80,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+26-30yrs,130,70,6,37,78,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+26-30yrs,85,60,9,38,86,mid risk
+40+ yrs,140,80,7,37,70,mid risk
+26-30yrs,90,70,7,37,80,mid risk
+31-35yrs,120,60,6,37,76,mid risk
+26-30yrs,130,70,7,37,78,mid risk
+16-20 yrs,85,60,9,39,86,mid risk
+16-20 yrs,120,80,7,37,70,mid risk
+16-20 yrs,110,60,7,38,70,mid risk
+31-35yrs,120,65,6,38,76,mid risk
+26-30yrs,120,70,7,37,77,low risk
+26-30yrs,120,70,7,37,77,low risk
+31-35yrs,120,90,7,37,70,low risk
+21-25yrs,99,60,7,37,76,low risk
+10-15yrs,76,49,7,37,77,low risk
+10-15yrs,120,80,7,37,70,low risk
+26-30yrs,100,70,7,37,80,low risk
+31-35yrs,120,60,6,37,76,low risk
+31-35yrs,120,90,7,37,70,low risk
+21-25yrs,90,60,7,37,76,low risk
+10-15yrs,76,49,7,37,77,low risk
+16-20 yrs,120,75,7,37,70,low risk
+40+ yrs,120,80,11,37,88,low risk
+10-15yrs,120,80,7,37,70,low risk
+26-30yrs,120,80,7,38,76,low risk
+16-20 yrs,120,80,7,39,76,low risk
+16-20 yrs,90,60,8,38,76,low risk
+10-15yrs,76,49,8,37,77,low risk
+16-20 yrs,120,75,8,37,70,low risk
+40+ yrs,120,80,11,37,88,low risk
+10-15yrs,120,80,8,37,70,low risk
+21-25yrs,100,65,8,37,80,low risk
+31-35yrs,100,70,8,37,60,low risk
+16-20 yrs,120,85,8,37,60,low risk
+40+ yrs,120,80,8,37,70,low risk
+16-20 yrs,85,60,8,39,86,low risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+21-25yrs,90,60,8,37,76,low risk
+16-20 yrs,120,80,7,37,70,low risk
+10-15yrs,76,49,8,37,77,low risk
+16-20 yrs,120,75,8,37,7,low risk
+10-15yrs,120,80,8,37,70,low risk
+16-20 yrs,70,50,8,37,70,low risk
+16-20 yrs,90,60,8,38,76,low risk
+16-20 yrs,90,63,8,38,70,low risk
+21-25yrs,120,90,8,38,80,low risk
+16-20 yrs,120,80,8,39,76,low risk
+16-20 yrs,90,65,8,38,70,low risk
+10-15yrs,80,60,8,37,80,low risk
+40+ yrs,120,80,8,37,70,low risk
+16-20 yrs,90,70,8,37,80,low risk
+31-35yrs,120,60,6,37,76,low risk
+21-25yrs,120,90,8,37,70,low risk
+16-20 yrs,85,60,8,39,86,low risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+40+ yrs,90,60,8,37,76,low risk
+16-20 yrs,120,80,7,37,70,low risk
+10-15yrs,78,49,8,37,77,low risk
+16-20 yrs,70,50,8,38,70,low risk
+16-20 yrs,100,70,8,37,80,low risk
+16-20 yrs,120,75,8,37,66,low risk
+21-25yrs,100,65,8,37,70,low risk
+40+ yrs,120,90,8,37,77,low risk
+26-30yrs,90,60,8,37,82,low risk
+10-15yrs,90,60,8,39,66,low risk
+16-20 yrs,100,90,8,37,88,low risk
+21-25yrs,100,85,8,37,66,low risk
+21-25yrs,120,90,8,37,82,low risk
+21-25yrs,120,80,8,37,77,low risk
+21-25yrs,75,50,8,37,60,low risk
+10-15yrs,90,60,8,39,60,low risk
+40+ yrs,120,95,8,37,66,low risk
+31-35yrs,100,70,8,37,66,low risk
+21-25yrs,120,85,8,37,88,low risk
+10-15yrs,90,65,8,38,80,low risk
+21-25yrs,120,90,8,37,60,low risk
+16-20 yrs,90,65,8,39,67,low risk
+21-25yrs,120,80,8,37,70,low risk
+16-20 yrs,85,60,8,39,86,low risk
+31-35yrs,120,90,8,37,70,low risk
+40+ yrs,120,80,8,37,70,low risk
+21-25yrs,140,100,7,37,80,high risk
+36-40yrs,140,100,18,37,90,high risk
+31-35yrs,140,100,7,37,78,high risk
+10-15yrs,90,65,7,38,70,high risk
+36-40yrs,120,90,11,37,88,high risk
+16-20 yrs,110,75,12,38,76,high risk
+36-40yrs,120,90,12,37,80,high risk
+36-40yrs,160,100,19,37,77,high risk
+31-35yrs,140,90,18,37,88,high risk
+10-15yrs,90,60,8,39,66,high risk
+31-35yrs,140,100,8,37,66,high risk
+36-40yrs,120,95,11,37,80,high risk
+40+ yrs,130,100,16,37,75,high risk
+16-20 yrs,90,65,6,39,67,high risk
+26-30yrs,83,60,8,38,86,high risk
+40+ yrs,120,80,15,37,70,high risk
+16-20 yrs,85,60,9,39,86,high risk
+31-35yrs,120,75,10,37,70,high risk
+40+ yrs,120,80,11,37,88,high risk
+40+ yrs,140,95,17,37,60,high risk
+26-30yrs,140,100,15,37,70,high risk
+26-30yrs,120,75,7,38,70,high risk
+40+ yrs,120,80,11,37,88,high risk
+40+ yrs,140,90,15,37,77,high risk
+21-25yrs,140,100,7,37,80,high risk
+36-40yrs,140,100,18,37,77,high risk
+26-30yrs,120,80,9,39,76,high risk
+31-35yrs,140,100,8,37,70,high risk
+16-20 yrs,90,60,11,38,78,high risk
+16-20 yrs,90,63,8,38,70,high risk
+21-25yrs,120,90,12,38,80,high risk
+16-20 yrs,120,80,7,39,76,high risk
+16-20 yrs,90,65,11,38,70,high risk
+36-40yrs,120,90,11,37,88,high risk
+16-20 yrs,110,75,13,38,76,high risk
+21-25yrs,120,90,15,37,80,high risk
+36-40yrs,160,100,19,37,77,high risk
+31-35yrs,140,90,18,37,88,high risk
+10-15yrs,90,60,8,39,66,high risk
+31-35yrs,140,100,9,37,66,high risk
+36-40yrs,120,95,11,37,80,high risk
+10-15yrs,90,60,11,39,60,high risk
+40+ yrs,130,100,16,37,76,high risk
+10-15yrs,90,65,9,38,80,high risk
+16-20 yrs,90,65,8,39,67,high risk
+16-20 yrs,85,60,6,39,86,high risk
+36-40yrs,120,75,8,37,70,high risk
+40+ yrs,120,80,11,37,88,high risk
+21-25yrs,120,60,15,37,80,high risk
+31-35yrs,85,60,19,37,86,high risk
+40+ yrs,120,90,18,37,70,high risk
+31-35yrs,120,65,6,38,76,mid risk
