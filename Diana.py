@@ -1,6 +1,4 @@
 from itertools import count
-from logging import PlaceHolder
-from pdb import line_prefix
 import streamlit as st 
 import numpy as np
 import matplotlib
@@ -15,8 +13,6 @@ import plotly.express as px
 import seaborn as sns
 from streamlit_option_menu import option_menu
 import plotly.figure_factory as ff
-import matplotlib.animation as animation
-import time
 
 st.set_page_config(page_icon="woman.png",layout="wide")
 
