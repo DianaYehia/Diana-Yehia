@@ -7,3 +7,4 @@ matplotlib
 seaborn
 scikit-learn
 chart_studio
+streamlit_option_menu
